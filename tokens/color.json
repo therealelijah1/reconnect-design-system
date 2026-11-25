@@ -1,0 +1,24 @@
+{
+  "color": {
+    "neutral": {
+      "0": "#FFFFFF",
+      "50": "#F7F7F5",
+      "100": "#EDEDE9",
+      "300": "#C9C8C1",
+      "500": "#8A8981",
+      "700": "#4A4944",
+      "900": "#1C1C1A"
+    },
+    "brand": {
+      "primary": "#2F5BFF",
+      "primary-hover": "#1E44D6",
+      "accent": "#FF7A45"
+    },
+    "feedback": {
+      "success": "#1F9D55",
+      "warning": "#E3A008",
+      "danger": "#D64545",
+      "info": "#2F80ED"
+    }
+  }
+}
